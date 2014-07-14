@@ -1,0 +1,9 @@
+{
+	"name": "pulse-email-storage-service",
+	"description": "Email storage service the pulse system",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"zmq": ">= 2.7.*"
+	}
+}
+
